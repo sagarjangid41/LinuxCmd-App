@@ -24,11 +24,11 @@ cmd -> "flutter create --org com.sagar --project-name linux  linux"
 GO firebse dashboard > Create Project > Add App (android) 
 done this setup 
 <h2>4.Install some dependence in flutter </h2>
-Dependence 
+<h2>Dependence </h2>
   cloud_firestore: ^0.14.0+2
   firebase_core: ^0.5.0
   firebase_auth: ^0.18.0+1
   http: ^0.12.2
   <h2>5.Download my code and customize </h2></b>
 
-Thank you maybe you like this 
+<h1>Thank you maybe you like this 😂😂 </h1> 
