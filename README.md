@@ -4,11 +4,11 @@ This app created for access our Linux system from your mobile phone
 
 <h1>There are we integrate multiple technology's </h1>
 <b>1.Flullter for app development <br>
-2.webserver and python  CGI for API creating <br>
+2.Apache web server and python  CGI for API creating <br>
 3.Redhat Linux for getting output <br>
 4.Firebase for storing cmd and output</b>
-How to use 
-check on start 
+<h1> How to use </h1>
+<h2><b>check on start</b></h2> 
 
 write command and enter 
 
