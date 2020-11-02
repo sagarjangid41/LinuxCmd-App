@@ -9,26 +9,26 @@ This app created for access our Linux system from your mobile phone
 4.Firebase for storing cmd and output</b>
 <h1> How to use </h1>
 <h2><b>check on start</b></h2> 
-<img src = "https://github.com/sagarjangid41/LinuxCmd-App/blob/main/images/Screenshot_1604312015.png" width="200" height="200"/>
+<img src = "https://github.com/sagarjangid41/LinuxCmd-App/blob/main/images/Screenshot_1604312015.png" width="200" height="300"/>
 <h2>Write command and enter </h2>
-<img src = "https://github.com/sagarjangid41/LinuxCmd-App/blob/main/images/Screenshot_1604312010.png" width="200" height="200"/>
+<img src = "https://github.com/sagarjangid41/LinuxCmd-App/blob/main/images/Screenshot_1604312010.png" width="200" height="300"/>
 <b>your all data save in firebase<b> 
-
-Let's See some Configuration-->
-1.we setup linux system as a system 
-Install Apache web server and Python CGI for creating API system 
-2.Come on Flutter 
+<img src = "https://github.com/sagarjangid41/LinuxCmd-App/blob/main/images/Screenshot%20(544).png" height="300" />
+<h1>Let's See some Configuration:-   </h1>
+<h2>1.we setup linux system as a system </h2>
+<b>Install Apache web server and Python CGI for creating API system 
+<h2>2.Come on Flutter </h2>
 create a flutter project 
 cmd -> "flutter create --org com.sagar --project-name linux  linux"
-3.setup Firebase 
+<h2>3.setup Firebase </h2>
 GO firebse dashboard > Create Project > Add App (android) 
 done this setup 
-4.Install some dependence in flutter 
+<h2>4.Install some dependence in flutter </h2>
 Dependence 
   cloud_firestore: ^0.14.0+2
   firebase_core: ^0.5.0
   firebase_auth: ^0.18.0+1
   http: ^0.12.2
-5.Download my code and customize 
+  <h2>5.Download my code and customize </h2></b>
 
 Thank you maybe you like this 
