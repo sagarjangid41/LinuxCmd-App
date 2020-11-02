@@ -15,7 +15,7 @@ This app created for access our Linux system from your mobile phone
 <b>your all data save in firebase<b> 
 <img src = "https://github.com/sagarjangid41/LinuxCmd-App/blob/main/images/Screenshot%20(544).png" height="300" />
 <h1>Let's See some Configuration:-   </h1>
-<h2>1.we setup linux system as a system </h2>
+<h2>1.we setup linux system as a server </h2>
 <b>Install Apache web server and Python CGI for creating API system 
 <h2>2.Come on Flutter </h2>
 create a flutter project 
