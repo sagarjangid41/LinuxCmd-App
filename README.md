@@ -9,10 +9,10 @@ This app created for access our Linux system from your mobile phone
 4.Firebase for storing cmd and output</b>
 <h1> How to use </h1>
 <h2><b>check on start</b></h2> 
-
-write command and enter 
-
-your all data save in firebase 
+<img src = "https://github.com/sagarjangid41/LinuxCmd-App/blob/main/images/Screenshot_1604312015.png" />
+<h2>Write command and enter </h2>
+<img src = "https://github.com/sagarjangid41/LinuxCmd-App/blob/main/images/Screenshot_1604312010.png" />
+<b>your all data save in firebase<b> 
 
 
 Let's See some Configuration-->
